@@ -1,0 +1,12 @@
+.card {
+  border-radius: 10px;
+  max-width: 800px;
+  flex-grow: 1;
+  background-color: rgba(108, 117, 125, .5);
+
+  &-text {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.2rem;
+  }
+}

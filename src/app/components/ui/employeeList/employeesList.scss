@@ -1,0 +1,39 @@
+div,
+label {
+  user-select: none;
+}
+
+.employee-list {
+  max-width: 800px;
+}
+
+.sort-field {
+  button {
+    // border: none;
+    border-radius: 5px;
+    border-width: 1px;
+  }
+}
+
+.create-button {
+  a {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .employee-list {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 400px) {
+  span {
+    display: block;
+    margin-bottom: 3px;
+  }
+
+  button {
+    margin-bottom: 3px;
+  }
+}

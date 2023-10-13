@@ -1,0 +1,5 @@
+[
+  { "id": 1, "value": "driver", "name": "Водитель" },
+  { "id": 2, "value": "waiter", "name": "Официант" },
+  { "id": 3, "value": "cook", "name": "Повар" }
+]

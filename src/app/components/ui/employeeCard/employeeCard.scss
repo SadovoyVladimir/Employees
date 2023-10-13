@@ -1,0 +1,16 @@
+.employee-card {
+  margin-bottom: 12px;
+
+  &_link {
+    text-decoration: none;
+    color: #000;
+  }
+
+  &:hover {
+    background-color: rgba(108, 117, 125, .5);
+  }
+
+  a:hover {
+    color: #000;
+  }
+}
